@@ -1,0 +1,8 @@
+﻿,Source Column,Target Column
+0,ID,CustomerID
+1,Name,Full Name
+2,Number,Phone Number
+3,Email ID,Email Address
+4,OrderID,Order_ID
+5,Order Description,Description
+6,Order Value,Price
