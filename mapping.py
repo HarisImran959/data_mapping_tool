@@ -4,7 +4,7 @@ import pandas as pd
 from difflib import SequenceMatcher
 
 st.set_page_config(page_title="Data Mapping Tool", layout="wide")
-st.title("🔗 Data Mapping Tool (Enhanced)")
+st.title("🔗 Data Mapping Tool")
 
 # -------------------------------
 # Similarity Function
